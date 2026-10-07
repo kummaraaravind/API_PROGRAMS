@@ -1,0 +1,5 @@
+com\example\week4\controller\StudentController.class
+com\example\week4\model\Student.class
+com\example\week4\Week4Application.class
+com\example\week4\aspect\LoggingAspect.class
+com\example\week4\service\StudentService.class

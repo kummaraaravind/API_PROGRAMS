@@ -1,0 +1,5 @@
+com\example\week8\config\WebServiceConfig.class
+com\example\week8\endpoint\UserEndpoint.class
+com\example\week8\Week8Application.class
+com\example\week8\model\User.class
+com\example\week8\service\UserService.class
